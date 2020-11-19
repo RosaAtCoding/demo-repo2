@@ -1,1 +1,13 @@
-ide-config
+/config/
+.class
+
+### IntelliJ IDEA ###
+.idea 
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+build/
+nbbuild/
+dist/
